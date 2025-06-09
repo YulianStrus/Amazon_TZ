@@ -77,18 +77,18 @@ const Reviews = () => {
 
   return (
     <div className="reviews-wrapper">
-      <img src="/img/bg.jpg" alt="background" className="bg" />
+      <img src={`${process.env.PUBLIC_URL}/img/bg.jpg`} alt="background" className="bg" />
       <h1>Voices of Success with Sales Fortuna</h1>
       <Slider {...settings}>
         {reviews.map((review) => (
           <div key={review.id} className="review-card">
             <div className="review-company">
-              <img src={review.company} alt={review.company} />
+              <img src={`${process.env.PUBLIC_URL}${review.company}`} alt={review.company} />
             </div>
             <p className="review-text">{review.text}</p>
             <div className="review-author-block">
               <img
-                src={review.author}
+                src={`${process.env.PUBLIC_URL}${review.author}`}
                 alt={review.author}
                 className="review-company"
               />
