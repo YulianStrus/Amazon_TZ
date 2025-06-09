@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Amazon_TZ/static/css/main.6f9d82ed.css",
-    "main.js": "/Amazon_TZ/static/js/main.148c0a40.js",
+    "main.js": "/Amazon_TZ/static/js/main.690ab934.js",
     "static/js/453.e1985492.chunk.js": "/Amazon_TZ/static/js/453.e1985492.chunk.js",
     "static/media/logo.svg": "/Amazon_TZ/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/slick.svg": "/Amazon_TZ/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/Amazon_TZ/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Amazon_TZ/index.html",
     "main.6f9d82ed.css.map": "/Amazon_TZ/static/css/main.6f9d82ed.css.map",
-    "main.148c0a40.js.map": "/Amazon_TZ/static/js/main.148c0a40.js.map",
+    "main.690ab934.js.map": "/Amazon_TZ/static/js/main.690ab934.js.map",
     "453.e1985492.chunk.js.map": "/Amazon_TZ/static/js/453.e1985492.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f9d82ed.css",
-    "static/js/main.148c0a40.js"
+    "static/js/main.690ab934.js"
   ]
 }
